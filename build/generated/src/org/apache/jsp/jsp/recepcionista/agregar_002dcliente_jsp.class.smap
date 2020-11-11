@@ -1,0 +1,22 @@
+SMAP
+agregar_002dcliente_jsp.java
+JSP
+*S JSP
+*F
++ 0 agregar-cliente.jsp
+jsp/recepcionista/agregar-cliente.jsp
+*L
+5,15:44
+20:59,3
+21,10:62
+31:72,3
+32,4:75
+36:79,3
+37,97:82
+134:179,3
+135:182
+136:183,3
+137,3:186
+140:189,3
+141,14:192
+*E

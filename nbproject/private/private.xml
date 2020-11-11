@@ -3,8 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/eliza/Documents/NetBeansProjects/CETU/web/index.html</file>
-            <file>file:/C:/Users/eliza/Documents/NetBeansProjects/CETU/web/styles.css</file>
+            <file>file:/C:/Users/gerar/Desktop/Sistema-de-reservas-CETU/web/jsp/recepcionista/agregar-cliente.jsp</file>
+            <file>file:/C:/Users/gerar/Desktop/Sistema-de-reservas-CETU/web/jsp/recepcionista/helpers/modal-error.jsp</file>
+            <file>file:/C:/Users/gerar/Desktop/Sistema-de-reservas-CETU/web/jsp/recepcionista/solicitudes.jsp</file>
+            <file>file:/C:/Users/gerar/Desktop/Sistema-de-reservas-CETU/web/jsp/recepcionista/helpers/modal-success.jsp</file>
         </group>
     </open-files>
 </project-private>
